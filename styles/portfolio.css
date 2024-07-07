@@ -50,6 +50,12 @@
     border: 1px solid blue;
 }
 
+.btn-contact{
+    background-color: transparent;
+    color: #FD6E0A;
+    border: 1px solid #FD6E0A;
+}
+
 .text-center{
     text-align: center;
 }
