@@ -43,6 +43,11 @@
     border: none;
     padding: 18px 35px 19px 36px;
     border-radius: 5px;
+    cursor: pointer;
+    
+}
+.btn-primary:hover{
+    border: 1px solid blue;
 }
 
 .text-center{
