@@ -175,3 +175,35 @@ border: 1px solid black;
     padding: 0px 120px;
     padding-bottom: 30px;
 }
+
+/* resume section styles */
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
+
+.resume-column-title{
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.experience-title{
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.experience-subtitle{
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.experience-description{
+    font-size: 16px;
+    font-weight: normal;
+}
+.resume hr{
+    margin: 20px 0px;
+}
+.resume-downloas-cv{
+    margin-top: 50px;
+}
